@@ -24,3 +24,4 @@ core.bare=false
 core.logallrefupdates=true
 core.symlinks=false
 core.ignorecase=true
+Corrigir o erro de notas CA
